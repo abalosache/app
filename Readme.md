@@ -35,6 +35,11 @@ This is a simple implementation of a Reverse Polish Notation (RPN) calculator in
     2.0 
     > + 
     3.0 
+   
+   OR 
+   
+   > 1 2 +
+   3.0
     ```
 5. **To exit, type q or press Ctrl + D.**
 
